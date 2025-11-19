@@ -1,4 +1,4 @@
-# Staggered (3D) Grid Animations with Scroll-Triggered Effects
+# Staggered (3D) Grid Animations with Scroll-Triggered Effects.
 
 A playful concept where we use scroll-based animations to create 3D grid effects and other transitions.
 
